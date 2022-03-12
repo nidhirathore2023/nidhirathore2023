@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/nidhi-rathore-921786214/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ltpmY-KII72_aIcfjy381SYBaZpYMerp/view](https://drive.google.com/file/d/1ltpmY-KII72_aIcfjy381SYBaZpYMerp/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vY1pwWwieyNSQMGpdanNTyee_ItRi9jL/view?usp=sharing](https://drive.google.com/file/d/1vY1pwWwieyNSQMGpdanNTyee_ItRi9jL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
