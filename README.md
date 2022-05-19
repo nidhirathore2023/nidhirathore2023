@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nidhi Rathore</h1>
-<h3 align="center">A backend-developer from India</h3>
+<h3 align="center">Backend-developer from India</h3>
 <img align="right"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt="Coding" width="400" >
 - 🌱 I’m currently learning **Nodejs.**
 
